@@ -1,0 +1,494 @@
+[
+  {
+    "compra": [1],
+    "produtos": ["queijo", "café", "refri"]
+  },
+  {
+    "compra": [2],
+    "produtos": ["queijo", "pão", "doce"]
+  },
+  {
+    "compra": [3],
+    "produtos": ["presunto", "pão", "queijo"]
+  },
+  {
+    "compra": [4],
+    "produtos": ["pão", "presunto", "pastel", "queijo"]
+  },
+  {
+    "compra": [5],
+    "produtos": ["doce", "refri", "pão"]
+  },
+  {
+    "compra": [6],
+    "produtos": ["refri", "café"]
+  },
+  {
+    "compra": [7],
+    "produtos": ["café", "pastel"]
+  },
+  {
+    "compra": [8],
+    "produtos": ["queijo", "pastel", "pão", "doce"]
+  },
+  {
+    "compra": [9],
+    "produtos": ["pastel", "pão", "refri", "presunto"]
+  },
+  {
+    "compra": [10],
+    "produtos": ["doce", "refri", "pão", "pastel"]
+  },
+  {
+    "compra": [11],
+    "produtos": ["pão", "queijo", "pastel"]
+  },
+  {
+    "compra": [12],
+    "produtos": ["doce", "café"]
+  },
+  {
+    "compra": [13],
+    "produtos": ["refri", "queijo", "café", "pastel"]
+  },
+  {
+    "compra": [14],
+    "produtos": ["presunto", "doce", "café"]
+  },
+  {
+    "compra": [15],
+    "produtos": ["refri", "café", "presunto", "pão"]
+  },
+  {
+    "compra": [16],
+    "produtos": ["café", "presunto", "refri", "pão"]
+  },
+  {
+    "compra": [17],
+    "produtos": ["queijo", "refri"]
+  },
+  {
+    "compra": [18],
+    "produtos": ["pastel", "queijo", "pão", "refri"]
+  },
+  {
+    "compra": [19],
+    "produtos": ["refri", "presunto"]
+  },
+  {
+    "compra": [20],
+    "produtos": ["doce", "pão", "café", "refri"]
+  },
+  {
+    "compra": [21],
+    "produtos": ["pão", "queijo"]
+  },
+  {
+    "compra": [22],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [23],
+    "produtos": ["pastel", "café"]
+  },
+  {
+    "compra": [24],
+    "produtos": ["café", "queijo", "pastel"]
+  },
+  {
+    "compra": [25],
+    "produtos": ["doce", "pastel"]
+  },
+  {
+    "compra": [26],
+    "produtos": ["pastel", "presunto", "doce", "queijo"]
+  },
+  {
+    "compra": [27],
+    "produtos": ["café", "presunto", "refri", "pão"]
+  },
+  {
+    "compra": [28],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [29],
+    "produtos": ["pastel", "doce"]
+  },
+  {
+    "compra": [30],
+    "produtos": ["presunto", "pastel", "doce", "queijo"]
+  },
+  {
+    "compra": [31],
+    "produtos": ["café", "pastel", "refri"]
+  },
+  {
+    "compra": [32],
+    "produtos": ["presunto", "café", "pastel", "refri"]
+  },
+  {
+    "compra": [33],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [34],
+    "produtos": ["doce", "pão", "presunto", "refri"]
+  },
+  {
+    "compra": [35],
+    "produtos": ["presunto", "queijo", "doce", "café"]
+  },
+  {
+    "compra": [36],
+    "produtos": ["pastel", "queijo", "pão", "café"]
+  },
+  {
+    "compra": [37],
+    "produtos": ["refri", "queijo", "presunto"]
+  },
+  {
+    "compra": [38],
+    "produtos": ["presunto", "queijo", "refri"]
+  },
+  {
+    "compra": [39],
+    "produtos": ["doce", "presunto", "pastel"]
+  },
+  {
+    "compra": [40],
+    "produtos": ["doce", "café", "pastel"]
+  },
+  {
+    "compra": [41],
+    "produtos": ["pastel", "pão", "doce", "presunto"]
+  },
+  {
+    "compra": [42],
+    "produtos": ["pastel", "café", "queijo"]
+  },
+  {
+    "compra": [43],
+    "produtos": ["refri", "pastel", "pão", "queijo"]
+  },
+  {
+    "compra": [44],
+    "produtos": ["refri", "queijo"]
+  },
+  {
+    "compra": [45],
+    "produtos": ["queijo", "doce", "pão"]
+  },
+  {
+    "compra": [46],
+    "produtos": ["queijo", "refri"]
+  },
+  {
+    "compra": [47],
+    "produtos": ["pastel", "doce", "pão"]
+  },
+  {
+    "compra": [48],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [49],
+    "produtos": ["doce", "pão", "refri"]
+  },
+  {
+    "compra": [50],
+    "produtos": ["doce", "presunto"]
+  },
+  {
+    "compra": [51],
+    "produtos": ["presunto", "café"]
+  },
+  {
+    "compra": [52],
+    "produtos": ["pastel", "doce"]
+  },
+  {
+    "compra": [53],
+    "produtos": ["presunto", "refri"]
+  },
+  {
+    "compra": [54],
+    "produtos": ["pastel", "presunto"]
+  },
+  {
+    "compra": [55],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [56],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [57],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [58],
+    "produtos": ["doce", "pastel", "queijo", "refri"]
+  },
+  {
+    "compra": [59],
+    "produtos": ["pão", "doce", "refri", "presunto"]
+  },
+  {
+    "compra": [60],
+    "produtos": ["queijo", "pastel"]
+  },
+  {
+    "compra": [61],
+    "produtos": ["queijo", "café", "pastel", "doce"]
+  },
+  {
+    "compra": [62],
+    "produtos": ["queijo", "doce", "café", "refri"]
+  },
+  {
+    "compra": [63],
+    "produtos": ["café", "pão", "refri", "doce"]
+  },
+  {
+    "compra": [64],
+    "produtos": ["pastel", "café"]
+  },
+  {
+    "compra": [65],
+    "produtos": ["pão", "refri", "queijo", "pastel"]
+  },
+  {
+    "compra": [66],
+    "produtos": ["pão", "queijo"]
+  },
+  {
+    "compra": [67],
+    "produtos": ["pão", "queijo"]
+  },
+  {
+    "compra": [68],
+    "produtos": ["pão", "queijo"]
+  },
+  {
+    "compra": [69],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [70],
+    "produtos": ["café", "queijo", "pastel", "pão"]
+  },
+  {
+    "compra": [71],
+    "produtos": ["queijo", "pão", "doce"]
+  },
+  {
+    "compra": [72],
+    "produtos": ["pastel", "presunto"]
+  },
+  {
+    "compra": [73],
+    "produtos": ["refri", "queijo", "doce"]
+  },
+  {
+    "compra": [74],
+    "produtos": ["pastel", "café", "presunto"]
+  },
+  {
+    "compra": [75],
+    "produtos": ["doce", "presunto", "refri", "pão"]
+  },
+  {
+    "compra": [76],
+    "produtos": ["café", "doce", "presunto"]
+  },
+  {
+    "compra": [77],
+    "produtos": ["pão", "presunto", "café"]
+  },
+  {
+    "compra": [78],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [79],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [80],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [81],
+    "produtos": ["pão", "queijo", "presunto"]
+  },
+  {
+    "compra": [82],
+    "produtos": ["queijo", "presunto", "doce", "pastel"]
+  },
+  {
+    "compra": [83],
+    "produtos": ["doce", "pastel", "refri", "café"]
+  },
+  {
+    "compra": [84],
+    "produtos": ["doce", "refri", "pão"]
+  },
+  {
+    "compra": [85],
+    "produtos": ["café", "pastel", "refri"]
+  },
+  {
+    "compra": [86],
+    "produtos": ["queijo", "presunto", "refri"]
+  },
+  {
+    "compra": [87],
+    "produtos": ["pastel", "café", "doce", "refri"]
+  },
+  {
+    "compra": [88],
+    "produtos": ["pão", "presunto", "pastel", "queijo"]
+  },
+  {
+    "compra": [89],
+    "produtos": ["queijo", "refri", "doce"]
+  },
+  {
+    "compra": [90],
+    "produtos": ["queijo", "presunto"]
+  },
+  {
+    "compra": [91],
+    "produtos": ["queijo", "presunto", "pão"]
+  },
+  {
+    "compra": [92],
+    "produtos": ["queijo", "presunto", "pão"]
+  },
+  {
+    "compra": [93],
+    "produtos": ["queijo", "presunto", "pão"]
+  },
+  {
+    "compra": [94],
+    "produtos": ["presunto", "pão", "queijo"]
+  },
+  {
+    "compra": [95],
+    "produtos": ["queijo", "pastel"]
+  },
+  {
+    "compra": [96],
+    "produtos": ["queijo", "doce", "pastel"]
+  },
+  {
+    "compra": [97],
+    "produtos": ["pão", "café", "doce", "pastel"]
+  },
+  {
+    "compra": [98],
+    "produtos": ["pão", "queijo", "presunto", "pastel"]
+  },
+  {
+    "compra": [99],
+    "produtos": ["café", "refri", "doce", "presunto"]
+  },
+  {
+    "compra": [100],
+    "produtos": ["pastel", "café"]
+  },
+  {
+    "compra": [101],
+    "produtos": ["queijo", "presunto", "pão"]
+  },
+  {
+    "compra": [102],
+    "produtos": ["presunto", "doce", "queijo"]
+  },
+  {
+    "compra": [103],
+    "produtos": ["pão", "refri", "pastel"]
+  },
+  {
+    "compra": [104],
+    "produtos": ["doce", "pão", "presunto", "queijo"]
+  },
+  {
+    "compra": [105],
+    "produtos": ["pastel", "doce"]
+  },
+  {
+    "compra": [106],
+    "produtos": ["café", "queijo", "doce", "pastel"]
+  },
+  {
+    "compra": [107],
+    "produtos": ["pastel", "pão"]
+  },
+  {
+    "compra": [108],
+    "produtos": ["pastel", "café"]
+  },
+  {
+    "compra": [109],
+    "produtos": ["pastel", "presunto", "café"]
+  },
+  {
+    "compra": [110],
+    "produtos": ["refri", "café", "doce"]
+  },
+  {
+    "compra": [111],
+    "produtos": ["doce", "café", "queijo"]
+  },
+  {
+    "compra": [112],
+    "produtos": ["doce", "refri", "pão"]
+  },
+  {
+    "compra": [113],
+    "produtos": ["presunto", "café", "pão"]
+  },
+  {
+    "compra": [114],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [115],
+    "produtos": ["refri", "pastel"]
+  },
+  {
+    "compra": [116],
+    "produtos": ["café", "doce"]
+  },
+  {
+    "compra": [117],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [118],
+    "produtos": ["pão", "queijo", "presunto", "café"]
+  },
+  {
+    "compra": [119],
+    "produtos": ["pão", "queijo", "presunto", "café"]
+  },
+  {
+    "compra": [120],
+    "produtos": ["pão", "queijo", "presunto", "café"]
+  },
+  {
+    "compra": [121],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [122],
+    "produtos": ["pastel", "refri"]
+  },
+  {
+    "compra": [123],
+    "produtos": ["pastel", "refri"]
+  }
+]

@@ -1,5 +1,7 @@
 library(jsonlite)
 library(stringi)
+library(arules)
+
 
 corrigir_json <- function(file_path) {
   if (!file.exists(file_path)) {
@@ -28,14 +30,13 @@ corrigir_json <- function(file_path) {
 
     json_text[i] <- gsub('"produtos",:', '"produtos":', json_text[i])
 
-    print(json_text[i])
   }
   
   
   writeLines(json_text, "padaria_trab_corrigido.json")
 }
 
-file_path <- "Trabalhos/padaria_trab.json"
+file_path <- "./padaria_trab.json"
 
 corrigir_json(file_path)
 
@@ -58,3 +59,11 @@ for (i in seq_along(data)) {
 }
 
 write_json(data, "padaria_trab_modificado.json", pretty = TRUE)
+
+produtos_list <- lapply(data, function(x) x$produtos)
+
+transacoes <- as(produtos_list, "transactions")
+
+regras <- apriori(transacoes, parameter = list(supp = 0.05, conf = 0.4))
+
+inspect(regras)
