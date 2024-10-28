@@ -66,4 +66,14 @@ transacoes <- as(produtos_list, "transactions")
 
 regras <- apriori(transacoes, parameter = list(supp = 0.05, conf = 0.4))
 
+regras <- subset(regras, size(lhs(regras)) > 0)
+
+regrasDoce <- apriori(transacoes, parameter = list(supp = 0.05, conf = 0.3))
+
+subsetRegrasDoce <- subset(regrasDoce, size(lhs(regrasDoce)) > 0)
+
+subsetRegrasDoce <- subset(subsetRegrasDoce, rhs(subsetRegrasDoce) %in% "doce")
+
 inspect(regras)
+
+inspect(subsetRegrasDoce)
